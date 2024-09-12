@@ -1,0 +1,54 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore GDB files
+*.gdb/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore cache and temporary files
+__pycache__/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.cache
+*.csv
+*.db
+*.sqlite
+*.xlsx
+*.gif
+*.bmp
+*.ico
+*.svg
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.dylib
+*.jar
+*.class
+*.war
+*.ear
+*.iml
+*.log
+*.out
+*.iml
+*.log
+*.out
